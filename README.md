@@ -1,10 +1,9 @@
 [![@aslam's Holopin board](https://holopin.me/aslam)](https://holopin.io/@aslam)
 
-        <img align="right" alt="coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas"/>
-
 
 <h1 align="center">Hi 👋, I'm Aslam Iliyas</h1>
 <h3 align="center">Am a Front-end developer with a special focus on understanding user stories and ensuring users have a stress-free experience when navigating through any application.</h3>
+   <img align="right" alt="coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslam48&label=Profile%20views&color=0e75b6&style=flat" alt="aslam48" /> </p>
 
