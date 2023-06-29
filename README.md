@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aslam48](https://github.com/aslam48).
 
-- 💬 Ask me about **React.js, technology, football, and trends**.
+- 💬 Ask me about **Software development, technology, football, and trends**.
 
 - 📫 How to reach me: **+2349066394608 | aslamiliyastech@gmail.com**.
 
