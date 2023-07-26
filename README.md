@@ -2,9 +2,36 @@
 
 [![aslam's Holopin board](https://holopin.me/aslam)](https://holopin.io/@aslam)
 
-<h1 align="center">Hi 👋, I'm Aslam Iliyas</h1>
-<h3 align="center">A Front-end developer with a special focus on understanding user stories and ensuring users have a stress-free experience when navigating through any application.</h3>
+# Hi there! 👋
 
+I'm  Aslam Iliyas, a passionate Frontend CrossPlatform Developer with a knack for crafting innovative and efficient web and mobile applications. 🚀
+
+🌟 What I bring to the table:
+- 3+ years of industry experience, delivering high-quality software solutions that enhance user engagement and satisfaction. ✨
+- Strong problem-solving skills and a keen eye for detail, ensuring top-notch code quality and performance. 🔍
+- Proven track record of collaborating with cross-functional teams to deliver impactful projects. 🤝
+- Passionate about learning and staying up-to-date with the latest technologies and best practices. 📚
+
+💼 Professional Background:
+- WeDance: Frontend Developer, berlin, Germany.
+- ElinkMarket: Frontend CrossPlatform Developer, Lagos, Nigeria.
+- Glide: Frontend CrossPlatform Developer, Lagos, Nigeria.
+
+🚀 Personal Projects:
+1. Firebase-Todo-App: React Native, Typescript, and Firebase-powered mobile to-do app for seamless task management.
+2. Bookmark API Manager: Nest.js-based REST API for efficient bookmark management, with robust testing and security features.
+   
+
+💻 Skills:
+- Typescript, Javascript, React, React Native, Redux Toolkit, Next.js GraphQL, , AWS, and more.
+
+🏆 Ablity:
+- Problem Solving, good Communicator, active Listiner.
+
+🔗 Connect with me:
+LinkedIn: [linkedin.com/in/aslam-iliyas-3491601ba/](https://www.linkedin.com/in/aslam-iliyas-3491601ba/)
+
+Let's collaborate and build amazing things together! Feel free to reach out. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslam48&label=Profile%20views&color=0e75b6&style=flat" alt="aslam48" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aslam48" alt="aslam48" /></a> </p>
@@ -13,18 +40,12 @@
 
 - 👯 I’m looking to collaborate on **projects**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/aslam48](https://github.com/aslam48).
-
-- 💬 Ask me about **Software development, technology, football, and trends**.
-
 - 📫 How to reach me: **+2349066394608 | aslamiliyastech@gmail.com**.
-
-- ⚡ Fun fact: **I am just a simple guy who loves to joke a lot, and I really like food**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aslamiliyas1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aslamiliyas1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aslam-iliyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslam-iliyas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aslam-iliyas-3491601ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslam-iliyas" height="30" width="40" /></a>
 <a href="https://fb.com/aslam iliyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aslam iliyas" height="30" width="40" /></a>
 </p>
 
