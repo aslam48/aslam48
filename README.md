@@ -45,8 +45,7 @@ Let's collaborate and build amazing things together! Feel free to reach out. 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aslamiliyas1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aslamiliyas1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aslam-iliyas-3491601ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslam-iliyas" height="30" width="40" /></a>
-<a href="https://fb.com/aslam iliyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aslam iliyas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aslam-iliyas-3491601ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
